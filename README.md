@@ -1,5 +1,5 @@
 # Morse-code-decoder
-This is a Ruby project that allows you to decode a Morse message.
+This is a Ruby project that allows you to decode a Morse message using three methods.
 
 ## Authors
 
