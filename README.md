@@ -3,7 +3,7 @@ This is a Ruby project that allows you to decode a Morse message using three met
 
 ## Authors
 
-### :bust_in_silhouette: Ivan Silva
+### :bust_in_silhouette: Ntare Guy
 - GitHub: [@41hulk](https://github.com/41hulk)
 - LinkedIn: [Ntare Guy](https://www.linkedin.com/in/ntare-guy/)
 
