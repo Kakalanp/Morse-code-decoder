@@ -10,5 +10,11 @@ def decoder(letter_morse)
     dictionary[letter_morse]
 end
 
-def splitter(word)
+def char_splitter(word)
     array = word.split(/ /)
+    word = ''
+    array.each do |char|
+    word = "#{word}#{decoder(char)}"
+  end
+  word
+end
